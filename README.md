@@ -1,4 +1,4 @@
-# weather
+# Weather
 
 Simple client-side weather app that fetches current conditions and a 5-day forecast from AccuWeather and displays them in the browser.
 
