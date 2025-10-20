@@ -31,9 +31,3 @@ Open [index.js](index.js) and replace the Authorization token value in the heade
 headers: {
   Authorization: 'Bearer YOUR_ACCWEATHER_KEY_HERE'
 }
-
-// ...existing code...
-
-## Disclaimer
-
-This project was created as part of "The Odin Project" curriculum.
